@@ -1,7 +1,7 @@
 {
   "name": "my-share-target-pwa",
   "short_name": "my-share-target-pwa",
-  "start_url": "https://dev.localhost/",
+  "start_url": "https://votrieu.github.io/INFO-6128-Shared-Target-Lab/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
