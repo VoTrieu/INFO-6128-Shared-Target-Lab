@@ -34,7 +34,7 @@
     }
   ],
   "share_target": {
-    "action": "/",
+    "action": "https://votrieu.github.io/INFO-6128-Shared-Target-Lab/",
     "method": "GET",
     "params": {
       "title": "title",
